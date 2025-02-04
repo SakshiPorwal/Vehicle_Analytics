@@ -1,0 +1,3 @@
+streamlit==1.23.1  # Streamlit version
+plotly==5.13.0  # Plotly for interactive plots
+pandas==1.5.2  # For data processing
